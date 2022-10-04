@@ -25,7 +25,6 @@ module.exports = {
       colbdbdbd: '#bdbdbd',
       cole0e0e0: '#e0e0e0',
       colf2f2f2: '#f2f2f2',
-      colf2f2f2: '#f2f2f2',
       colfbfaff: '#fbfaff',
     },
     fontSize: {
